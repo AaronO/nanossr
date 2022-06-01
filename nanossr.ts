@@ -1,9 +1,9 @@
-export * from "https://deno.land/x/nano_jsx@v0.0.30/mod.ts";
+export * from "https://deno.land/x/nano_jsx@v0.0.32/mod.ts";
 
 import {
   Helmet,
   renderSSR as nanoRender,
-} from "https://deno.land/x/nano_jsx@v0.0.30/mod.ts";
+} from "https://deno.land/x/nano_jsx@v0.0.32/mod.ts";
 import { setup } from "https://esm.sh/twind@0.16.16";
 import {
   Configuration,
